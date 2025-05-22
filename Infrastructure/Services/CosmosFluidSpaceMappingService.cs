@@ -1,6 +1,5 @@
 ﻿using CryingOnion.FluidSpace;
 using {{SolutionName}}.Infrastructure.Repositories;
-using {{SolutionName}}.Infrastructure.ProjectionsDao;
 
 namespace {{SolutionName}}.Infrastructure.Services;
 
