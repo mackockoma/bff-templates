@@ -4,7 +4,6 @@ using CryingOnion.Repositories;
 using {{SolutionName}}.Application;
 using CryingOnion.EventPublisher;
 using Microsoft.Extensions.Hosting;
-using {{SolutionName}}.Domain.Services;
 using CryingOnion.ExceptionHandling;
 using Microsoft.Azure.Functions.Worker;
 using {{SolutionName}}.Infrastructure.Services;
