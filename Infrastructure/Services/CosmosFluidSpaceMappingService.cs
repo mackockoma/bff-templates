@@ -1,4 +1,4 @@
-﻿using CryingOnion.FluidSpace;
+using CryingOnion.FluidSpace;
 using {{SolutionName}}.Infrastructure.Repositories;
 
 namespace {{SolutionName}}.Infrastructure.Services;

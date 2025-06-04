@@ -1,4 +1,4 @@
-﻿using Microsoft.Azure.Cosmos;
+using Microsoft.Azure.Cosmos;
 using CryingOnion.FluidSpace;
 using CryingOnion.Repositories.Cosmos;
 using CryingOnion.Repositories.Cosmos.Providers;
